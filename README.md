@@ -1,4 +1,4 @@
-#Fork by https://www.npmjs.com/package/cordova-plugin-firebase-lib
+# Fork by https://www.npmjs.com/package/cordova-plugin-firebase-lib
 
 **What Change**
     just change preference for target 29 with cordova-android 9.0.0
